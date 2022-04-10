@@ -24,9 +24,6 @@
 </div>
 
 <style>
-	.wrapper {
-		position: relative;
-	}
 	.modal {
 		display: grid;
 		place-items: center;
